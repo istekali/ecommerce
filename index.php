@@ -1,3 +1,3 @@
 <?php 
 echo phpinfo();
-echo "string";
+echo "stringsadasdsa";
